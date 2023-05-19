@@ -13,7 +13,7 @@
 			"mandatory":false
 		},
 		"email":{
-				"mandatory":false
+			"mandatory":false
 		}
 	},
 
